@@ -1,5 +1,3 @@
 # ConversorExcel
 
-Para Inicializar
-
-npm start
+Convertendo arquivos .csv em tabelas no banco de dados MySQL
